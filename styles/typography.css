@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../assets/fonts/Montserrat/static/Montserrat-Light.ttf');
+}
+
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.white-text {
+    color: white;
+}
