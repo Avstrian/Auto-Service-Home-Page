@@ -3,10 +3,19 @@
     src: url('../assets/fonts/Montserrat/static/Montserrat-Light.ttf');
 }
 
+@font-face {
+    font-family: 'Open Sans';
+    src: url('../assets/fonts/Open_Sans/OpenSans-VariableFont_wdth\,wght.ttf');
+}
+
 * {
     font-family: 'Montserrat', sans-serif;
 }
 
 .white-text {
     color: white;
+}
+
+.sans-font {
+    font-family: 'Open Sans', sans-serif;
 }
