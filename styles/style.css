@@ -65,6 +65,21 @@ header {
     margin-top: 30vh;
 }
 
+.intro-button {
+    background-color: #e25303;
+    margin-top: 100px;
+    padding: 20px 100px;
+    border: none;
+    border-radius: 50px;
+    font-size: 1.7rem;
+    font-weight: bolder;
+}
+
+.intro-button:hover {
+    cursor: pointer;
+    color: black;
+}
+
 .about-container {
     background-color: #eff5f5;
     display: flex;
